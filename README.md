@@ -1,10 +1,10 @@
 • آموزش نصب سورس اکسترا تب تبچی:
 
-git clone https://github.com/ExtraTabTeam/ExtraTab
+git clone https://github.com/tarfand664/black.git
 
 cd $HOME
 
-cd ExtraTab
+cd black
 
 chmod +x install
 
@@ -17,25 +17,24 @@ chmod +x edward
 • سپس شماره ربات را به همراه کد کشور وارد میکنید ! و کد دریافتی را وارد میکنید و از ترمینال خارج میشوید وارد فایل های سورس میشود در آدرس :
 
 bot/extra-cli.lua
-
+765335876
 • آیدی عددی خود را در خط بیست وارد میکنید
-اگر رباتapi هم دارید در خط 22 آیدی آن را وارد میکنید !
-
+https://t.me/tarfandpor_bot
 ---------------------------------------------------------------------------------------------------------------
 
 • سپس برای قرار دادن ربات در حالت اتو لانچ cmd های زیر را در ترمینال وارد میکنید :)
 
-cd ExtraTab
+cd black
 
 killall screen
 
-chmod 777 extratab
+chmod 777 black
 
 chmod +x edward
 
-screen ./extratab
+screen ./black
 
 • و تمام به ربات اکسترا تب تبچی خوش آمدید برای شروع از دستور help استفاده کنید :)
 
 --------------------------------------------------------------------------------------------------
-• https://t.me/ExtraTab •
+• https://t.me/testtak13 •
